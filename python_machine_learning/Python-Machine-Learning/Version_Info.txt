@@ -1,0 +1,22 @@
+   Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+
+----------------------------    ----------------------------   ------------------------- ------------------------------
+--v0 Continuation: This is a continuation of respo Ai_Development_0, will be studying A.i a bit more in-depth
+                        As of now just created the respo, with the necassary files to start the program. made a
+                        version_info.txt, readme, and chap1. will be reading pythonmachinelearning -
+                        The Python Machine Learning Ecosystem Chap1 at the moment.
+
+-wor:v1:
