@@ -23,9 +23,11 @@ v1 Respo Fixed: Fixed couple of issues with v0, now the README.md can be seen & 
                 once a user clicks on the respo. Also modified the venv/changed location of the files to second folder.
                 Instead of have to click on 3 folders to see a program.
 
---v2 PyCharm & Jupyter Notebook: Just got started on Jupyter for learning a bit more about pandas/aquiring data
+v2 PyCharm & Jupyter Notebook: Just got started on Jupyter for learning a bit more about pandas/aquiring data
                                 from iris datasets, will be making a new folder to hold jupyter programs to seperate it
                                 from pycharm files to help organize a bit. As of now I'm going deep in A.I/machine development
                                 this is going to be a blast!
 
--wor:v3:
+--v3 DataFrame Pandas: testing some notes for using pandas and df for gathering data @ file dataset_for_jupyter.ipnb
+
+-wor:v4
