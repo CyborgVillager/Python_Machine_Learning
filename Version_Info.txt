@@ -115,10 +115,17 @@ v11 Bar Graph : creation for Bar graph located @ line [7] for visualize.ipynb ju
                     example on creating this graph with comments explaining some of its
                     features ^_*
 
---v12 Installed Seaborn: installed seaborn for more in-depthstatistical visualizations
+v12 Installed Seaborn: installed seaborn for more in-depthstatistical visualizations
                seaborn link/doc : http://seaborn.pydata.org/index.html
                 @ line[17] basic intro to seaborn -> by importing it and showing the species information
                 on multi graphs with either line, scatter graphs showing sepal & petal data.
 
                 @ line [18] shows Violin Plots which are graph format that shows both sepal & petal information
 
+--v13 Map Function: just simple returns a map object of the information. in this case species
+                    df['species'] = df['species'].map({0: 'SET', 1: 'VER', 2: 'VIR'})
+                    'map function over each of the values of the existing species column. As each value was found in
+                    the Python dictionary, it was added to the return series. We assigned this return series to the same
+                    species name, so it replaced our original species column. Had we chosen a different name, say short code,
+                    that column would have been appended to the DataFrame, and we would then have the original species column
+                     plus the new short code column. '
