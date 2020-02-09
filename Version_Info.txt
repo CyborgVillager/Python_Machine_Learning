@@ -103,6 +103,10 @@ v8 Graph Info:    For visualize.ipynb the following information is:
                 plt.title('Iris Petal Width', fontsize=14, y=1.01)
 
 
---v9 Multi Graphs: on visualize.ipynb line [20] 4graphs are and shown to the user with the data for
+v9 Multi Graphs: on visualize.ipynb line [20] 4graphs are and shown to the user with the data for
                     Iris Petal Width , Iris Petal Length , Iris Sepal Width & Iris Sepal length. With
                     color codes for their graph color distinguishing from each other.
+---------------------------    ----------------------------   ------------------------- ------------------------------
+--v10 ScatterPlot & Line Graph: 2 new graphs has been created 1 with Scatter Plot @ line [26] that puts the data on
+                                a scatter format, while the line graph @ line [28] just displays the information as a
+                                line for the petal information.
