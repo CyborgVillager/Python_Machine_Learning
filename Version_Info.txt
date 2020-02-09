@@ -111,7 +111,7 @@ v10 ScatterPlot & Line Graph: 2 new graphs has been created 1 with Scatter Plot 
                                 a scatter format, while the line graph @ line [6] just displays the information as a
                                 line for the petal information.
 
-11 Bar Graph : creation for Bar graph located @ line [7] for visualize.ipynb just a quick
+v11 Bar Graph : creation for Bar graph located @ line [7] for visualize.ipynb just a quick
                     example on creating this graph with comments explaining some of its
                     features ^_*
 
