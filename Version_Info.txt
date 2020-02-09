@@ -84,7 +84,7 @@ v7 Visualization of the Data: Made a new file called visualize.ipynb, updated py
                                   Installed matplotlib & jupyter onto pycharm as well.
 
 
---v8 Graph Info:    For visualize.ipynb the following information is:
+v8 Graph Info:    For visualize.ipynb the following information is:
                 - Graph info & explaination
                 # creates the subplot -> 8inch width by 4inch height
                 fig, ax = plt.subplots(figsize=(10,5))
@@ -102,3 +102,7 @@ v7 Visualization of the Data: Made a new file called visualize.ipynb, updated py
                 # set the graph title , y position & font size
                 plt.title('Iris Petal Width', fontsize=14, y=1.01)
 
+
+--v9 Multi Graphs: on visualize.ipynb line [20] 4graphs are and shown to the user with the data for
+                    Iris Petal Width , Iris Petal Length , Iris Sepal Width & Iris Sepal length. With
+                    color codes for their graph color distinguishing from each other.
