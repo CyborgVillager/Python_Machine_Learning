@@ -44,7 +44,7 @@ v4 Jupyter Theme Changed & Notes added: Link to help with changing Jupyter theme
                                              Shift-Enter to auto start the program,
                                              esc-b to make a new line
 
---v5 Testing .iloc & loc iterators: -using list iterator to select just the width feature columns:
+v5 Testing .iloc & loc iterators: -using list iterator to select just the width feature columns:
                                            df.loc[:3, [x for x in df.columns if 'width' in x]]
                                            'reate a list that is a subset of all columns. df.columns returns a list
                                            of all columns, and our iteration uses a conditional statement to
@@ -57,3 +57,19 @@ v4 Jupyter Theme Changed & Notes added: Link to help with changing Jupyter theme
 
                                            file changes are @ dataset_for_jupyter.ipynb
 ----------------------------    ----------------------------   ------------------------- ------------------------------
+--v6 Selecting Specific Data From The Subset :  -> df['species'].unique() -> aquires the array and dtype which is int64
+
+                                            -> df[df['species']==2] -> aquires the species sepal info and species #
+
+                                           -> df[(df['species']==2)&(df['petal width (cm)']>2.2)] ->
+                                            gets the species info that is greater than 2.2
+
+                                            -> df.describe() just describes the information / give stats
+
+                                            -> df.describe(percentiles=[.1,.2,.3,.4,.5,.6,.7,.8,.9])
+                                                Gives the information that is more specific if the user wishes to get more
+                                                precise measurments of the data on percentiles goes from 10% - 90% aka
+                                                max
+
+                                            -> df.corr() checks the correlation between the data
+
