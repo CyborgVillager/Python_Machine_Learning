@@ -74,6 +74,12 @@ v6 Selecting Specific Data From The Subset :  -> df['species'].unique() -> aquir
                                             -> df.corr() checks the correlation between the data
 
 
-                                       --v6.5 README.md Edit: Updated the README.md to include commas helps with the
+                                       v6.5 README.md Edit: Updated the README.md to include commas helps with the
                                                               flow statement of the sentence.
+
+
+--v7 Visualization of the Data: Made a new file called visualize.ipynb, updated py_chap1_source.py
+                                  to accomadate the the info for graphing & made a new folder
+                                  to hold the ipynb files called ipnb_files
+                                  Installed matplotlib & jupyter onto pycharm as well.
 
