@@ -122,10 +122,21 @@ v12 Installed Seaborn: installed seaborn for more in-depthstatistical visualizat
 
                 @ line [18] shows Violin Plots which are graph format that shows both sepal & petal information
 
---v13 Map Function: just simple returns a map object of the information. in this case species
+v13 Map Function: just simple returns a map object of the information. in this case species
                     df['species'] = df['species'].map({0: 'SET', 1: 'VER', 2: 'VIR'})
                     'map function over each of the values of the existing species column. As each value was found in
                     the Python dictionary, it was added to the return series. We assigned this return series to the same
                     species name, so it replaced our original species column. Had we chosen a different name, say short code,
                     that column would have been appended to the DataFrame, and we would then have the original species column
                      plus the new short code column. '
+
+
+--v14 Apply Map,Groupby,Sklearn: perform a function across all data cells in your DataFrame.
+                This is where applymap is the correct tool.
+
+                more info for pandas/pydata docs : https://pandas.pydata.org/pandas-docs/stable/
+                link for sklearn model: https://scikit-learn.org/stable/index.html
+                stats model is mostly used for 'exploring data, estimating models, and running statistical tests'
+                pip install sklearn onto pycharm venv @ aimech_venv
+
+
