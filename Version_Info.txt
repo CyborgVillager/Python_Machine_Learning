@@ -107,10 +107,18 @@ v9 Multi Graphs: on visualize.ipynb line [20] 4graphs are and shown to the user 
                     Iris Petal Width , Iris Petal Length , Iris Sepal Width & Iris Sepal length. With
                     color codes for their graph color distinguishing from each other.
 ---------------------------    ----------------------------   ------------------------- ------------------------------
-v10 ScatterPlot & Line Graph: 2 new graphs has been created 1 with Scatter Plot @ line [26] that puts the data on
-                                a scatter format, while the line graph @ line [28] just displays the information as a
+v10 ScatterPlot & Line Graph: 2 new graphs has been created 1 with Scatter Plot @ line [5] that puts the data on
+                                a scatter format, while the line graph @ line [6] just displays the information as a
                                 line for the petal information.
 
---v11 Bar Graph : creation for Bar graph located @ line [48] for visualize.ipynb just a quick
+11 Bar Graph : creation for Bar graph located @ line [7] for visualize.ipynb just a quick
                     example on creating this graph with comments explaining some of its
                     features ^_*
+
+--v12 Installed Seaborn: installed seaborn for more in-depthstatistical visualizations
+               seaborn link/doc : http://seaborn.pydata.org/index.html
+                @ line[17] basic intro to seaborn -> by importing it and showing the species information
+                on multi graphs with either line, scatter graphs showing sepal & petal data.
+
+                @ line [18] shows Violin Plots which are graph format that shows both sepal & petal information
+
