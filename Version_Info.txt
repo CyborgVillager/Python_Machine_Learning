@@ -57,7 +57,7 @@ v5 Testing .iloc & loc iterators: -using list iterator to select just the width 
 
                                            file changes are @ dataset_for_jupyter.ipynb
 ----------------------------    ----------------------------   ------------------------- ------------------------------
---v6 Selecting Specific Data From The Subset :  -> df['species'].unique() -> aquires the array and dtype which is int64
+v6 Selecting Specific Data From The Subset :  -> df['species'].unique() -> aquires the array and dtype which is int64
 
                                             -> df[df['species']==2] -> aquires the species sepal info and species #
 
@@ -72,4 +72,8 @@ v5 Testing .iloc & loc iterators: -using list iterator to select just the width 
                                                 max
 
                                             -> df.corr() checks the correlation between the data
+
+
+                                       --v6.5 README.md Edit: Updated the README.md to include commas helps with the
+                                                              flow statement of the sentence.
 

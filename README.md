@@ -9,9 +9,9 @@ feel free to check out the code as well to increase your skills as well.
 
 
 
-> 'Cybernetics is not a myth
-> Advancement is not a trend
-> progress is not just a hopeful idea
+> 'Cybernetics is not a myth,
+> Advancement is not a trend,
+> progress is not just a hopeful idea,
 > It's a promised reality.'
 
 ~ Zoomer Waffen
