@@ -30,7 +30,7 @@ v2 PyCharm & Jupyter Notebook: Just got started on Jupyter for learning a bit mo
 
 v3 DataFrame Pandas: testing some notes for using pandas and df for gathering data @ file dataset_for_jupyter.ipnb
 
---v4 Jupyter Theme Changed & Notes added: Link to help with changing Jupyter theme to 'dark mode'
+v4 Jupyter Theme Changed & Notes added: Link to help with changing Jupyter theme to 'dark mode'
                                             link: https://www.youtube.com/watch?v=gjxrDf6Pp6M
 
                                             github link for shortcut for adding new line on jupyter:
@@ -43,3 +43,17 @@ v3 DataFrame Pandas: testing some notes for using pandas and df for gathering da
                                              Added a new file called Demo of Jupyter, just a mini file testing Jupyter
                                              Shift-Enter to auto start the program,
                                              esc-b to make a new line
+
+--v5 Testing .iloc & loc iterators: -using list iterator to select just the width feature columns:
+                                           df.loc[:3, [x for x in df.columns if 'width' in x]]
+                                           'reate a list that is a subset of all columns. df.columns returns a list
+                                           of all columns, and our iteration uses a conditional statement to
+                                           select only those with width in the title'
+
+                                           df.iloc[:4,:2] to select sepal length & sepal width
+
+                                           df.iloc[:1,:5] selecting -> 	sepal length (cm)	sepal width (cm)
+                                           petal length (cm)	petal width (cm) & 	species
+
+                                           file changes are @ dataset_for_jupyter.ipynb
+----------------------------    ----------------------------   ------------------------- ------------------------------
