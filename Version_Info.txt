@@ -78,8 +78,27 @@ v6 Selecting Specific Data From The Subset :  -> df['species'].unique() -> aquir
                                                               flow statement of the sentence.
 
 
---v7 Visualization of the Data: Made a new file called visualize.ipynb, updated py_chap1_source.py
+v7 Visualization of the Data: Made a new file called visualize.ipynb, updated py_chap1_source.py
                                   to accomadate the the info for graphing & made a new folder
                                   to hold the ipynb files called ipnb_files
                                   Installed matplotlib & jupyter onto pycharm as well.
+
+
+--v8 Graph Info:    For visualize.ipynb the following information is:
+                - Graph info & explaination
+                # creates the subplot -> 8inch width by 4inch height
+                fig, ax = plt.subplots(figsize=(10,5))
+
+                #this plots the histogram 4 petal width from iris df
+                #by naming it .hist then pass the data, auto set the color to green
+                ax.hist(df['petal width (cm)'], color='green');
+
+                # set the y label position / font size
+                ax.set_ylabel('Count', fontsize=14)
+
+                # set the x label position / font size
+                ax.set_xlabel('Width', fontsize=14)
+
+                # set the graph title , y position & font size
+                plt.title('Iris Petal Width', fontsize=14, y=1.01)
 
