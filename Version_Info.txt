@@ -131,12 +131,17 @@ v13 Map Function: just simple returns a map object of the information. in this c
                      plus the new short code column. '
 
 
---v14 Apply Map,Groupby,Sklearn: perform a function across all data cells in your DataFrame.
+v14 Apply Map,Groupby,Sklearn: perform a function across all data cells in your DataFrame.
                 This is where applymap is the correct tool.
 
                 more info for pandas/pydata docs : https://pandas.pydata.org/pandas-docs/stable/
                 link for sklearn model: https://scikit-learn.org/stable/index.html
                 stats model is mostly used for 'exploring data, estimating models, and running statistical tests'
                 pip install sklearn onto pycharm venv @ aimech_venv
+
+
+--v15 Machine Find Apartments: new file created @ py_chap2 -> mach_find_apts.ipynb. For now the program gets http
+                                from renthop from the chicago area for apts.
+                                just for now prints content but at raw info.
 
 
