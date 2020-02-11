@@ -140,8 +140,14 @@ v14 Apply Map,Groupby,Sklearn: perform a function across all data cells in your 
                 pip install sklearn onto pycharm venv @ aimech_venv
 
 
---v15 Machine Find Apartments: new file created @ py_chap2 -> mach_find_apts.ipynb. For now the program gets http
+v15 Machine Find Apartments: new file created @ py_chap2 -> mach_find_apts.ipynb. For now the program gets http
                                 from renthop from the chicago area for apts.
                                 just for now prints content but at raw info.
 
 
+--v16 Installed Html5lib , bs4: Modified html5lib to html.parser after obtaing a tree error for the scan. The bug is fixedf
+                                thanks @ stackoverflow link :
+                                https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
+
+                                file renthop_scan.py & mach_find.apts.ipynb can now scan the site and order the info
+                                to a more readab. format.
