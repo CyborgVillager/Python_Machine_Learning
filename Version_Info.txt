@@ -152,5 +152,12 @@ v16 Installed Html5lib , bs4: Modified html5lib to html.parser after obtaing a t
                                 file renthop_scan.py & mach_find.apts.ipynb can now scan the site and order the info
                                 to a more readab. format.
 
---v17 Basic Mach Scan: basic scan of renthop for 1 apt for its url link, address, neighborhood, price range, bed # &
+v17 Basic Mach Scan: basic scan of renthop for 1 apt for its url link, address, neighborhood, price range, bed # &
                             bathroom #
+
+
+--v18 25 Pages Scan: Aquired Jupyter NotebooK Command keys list :
+                        http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
+
+                        mach_find_apts.ipynb can now scan for apts within by scanning 4 25 pages for prices min
+                        of 1.5k to 3.5k
