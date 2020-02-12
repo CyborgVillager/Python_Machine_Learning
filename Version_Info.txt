@@ -145,9 +145,12 @@ v15 Machine Find Apartments: new file created @ py_chap2 -> mach_find_apts.ipynb
                                 just for now prints content but at raw info.
 
 
---v16 Installed Html5lib , bs4: Modified html5lib to html.parser after obtaing a tree error for the scan. The bug is fixedf
+v16 Installed Html5lib , bs4: Modified html5lib to html.parser after obtaing a tree error for the scan. The bug is fixedf
                                 thanks @ stackoverflow link :
                                 https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
 
                                 file renthop_scan.py & mach_find.apts.ipynb can now scan the site and order the info
                                 to a more readab. format.
+
+--v17 Basic Mach Scan: basic scan of renthop for 1 apt for its url link, address, neighborhood, price range, bed # &
+                            bathroom #
