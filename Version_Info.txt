@@ -166,5 +166,12 @@ v19 Jupyter DF Scan: @ mach_find_apts.ipynb scanned chicago apts in which aquire
                         apt's listings, address, url, bed,bathrooms, etc
 
 
---v20 Neighborhood Info: Cleaning the info to get more precise data on the neighborhood / will improve on giving
+v20 Neighborhood Info: Cleaning the info to get more precise data on the neighborhood / will improve on giving
                             user the choice on which neighborhood they are interested in renting out.
+
+
+--v21 Map Api Halt:   will find a new solution to aquire map api, google map api is not an option at this moment
+                          / work on chp2 in the near future once I aquired an alternative map api
+
+                          for the next version the program will be based on a msg/ flight fare that will send the user
+                           airplane $ via text.
