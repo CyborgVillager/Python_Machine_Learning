@@ -162,5 +162,9 @@ v18 25 Pages Scan: Aquired Jupyter NotebooK Command keys list :
                         mach_find_apts.ipynb can now scan for apts within by scanning 4 25 pages for prices min
                         of 1.5k to 3.5k
 
---v19 Jupyter DF Scan: @ mach_find_apts.ipynb scanned chicago apts in which aquired a more detailed results of the
+v19 Jupyter DF Scan: @ mach_find_apts.ipynb scanned chicago apts in which aquired a more detailed results of the
                         apt's listings, address, url, bed,bathrooms, etc
+
+
+--v20 Neighborhood Info: Cleaning the info to get more precise data on the neighborhood / will improve on giving
+                            user the choice on which neighborhood they are interested in renting out.
