@@ -144,7 +144,7 @@ v15 Machine Find Apartments: new file created @ py_chap2 -> mach_find_apts.ipynb
                                 from renthop from the chicago area for apts.
                                 just for now prints content but at raw info.
 
-
+---------------------------    ----------------------------   ------------------------- ------------------------------
 v16 Installed Html5lib , bs4: Modified html5lib to html.parser after obtaing a tree error for the scan. The bug is fixedf
                                 thanks @ stackoverflow link :
                                 https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
@@ -170,8 +170,13 @@ v20 Neighborhood Info: Cleaning the info to get more precise data on the neighbo
                             user the choice on which neighborhood they are interested in renting out.
 
 
---v21 Map Api Halt:   will find a new solution to aquire map api, google map api is not an option at this moment
+v21 Map Api Halt:   will find a new solution to aquire map api, google map api is not an option at this moment
                           / work on chp2 in the near future once I aquired an alternative map api
 
                           for the next version the program will be based on a msg/ flight fare that will send the user
                            airplane $ via text.
+
+---------------------------    ----------------------------   ------------------------- ------------------------------
+--v22 Proj Start Mini App: mini app on helping the user find cheap airline tickets then sending a txt to the user once
+                            the user accepted getting notifcations on updates regarding the airline that they want to
+                            ride on.
