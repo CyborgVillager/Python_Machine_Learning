@@ -177,6 +177,14 @@ v21 Map Api Halt:   will find a new solution to aquire map api, google map api i
                            airplane $ via text.
 
 ---------------------------    ----------------------------   ------------------------- ------------------------------
---v22 Proj Start Mini App: mini app on helping the user find cheap airline tickets then sending a txt to the user once
+v22 Proj Start Mini App: mini app on helping the user find cheap airline tickets then sending a txt to the user once
                             the user accepted getting notifcations on updates regarding the airline that they want to
                             ride on.
+
+
+--v23 Main Focus: monitor the price of airline tickets that are the cheapest mostly looking for 'mistake fare'
+                    Objectives to complete:
+                    # aquire airplaine ticket
+                    # web scrap the data
+                    # send Txts to phone
+
