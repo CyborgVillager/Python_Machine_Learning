@@ -35,3 +35,6 @@ try:
 except OSError:
                 print('Error cant save file ' + img_name + ' at this time' + 'please check the folder' + '\n' +
                       'screenshot')
+
+
+from IPython.core.display import HTML
