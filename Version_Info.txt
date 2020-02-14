@@ -182,9 +182,16 @@ v22 Proj Start Mini App: mini app on helping the user find cheap airline tickets
                             ride on.
 
 
---v23 Main Focus: monitor the price of airline tickets that are the cheapest mostly looking for 'mistake fare'
+v23 Main Focus: monitor the price of airline tickets that are the cheapest mostly looking for 'mistake fare'
                     Objectives to complete:
                     # aquire airplaine ticket
                     # web scrap the data
                     # send Txts to phone
+
+
+--v24 Pip install ChromeDriver & Selenium <-x_x->: installed ChromeDriver & Selenium, made a folder to hold ChromeDriver to
+                                            activate the program airline_cheap_find.py
+
+                                            On jupyter file -> find_airline_ticket_cheap.ipynb the module if having
+                                            difficulity aquiring selenium will fix this issue shortly.
 

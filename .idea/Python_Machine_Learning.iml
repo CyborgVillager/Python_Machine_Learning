@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Python-Machine-Learning/py_chap1/py_chap1_source" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python_machine_learning/py_chap1/py_chap1_source" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/python_machine_learning/py_chap2/py_chap2_source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python_machine_learning/pychap_3/pychap3_source" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Python-Machine-Learning/py_machine_venv" />
       <excludeFolder url="file://$MODULE_DIR$/aimech_venv" />
     </content>

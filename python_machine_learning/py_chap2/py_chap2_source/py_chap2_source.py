@@ -5,4 +5,3 @@ import matplotlib.pyplot as plt
 #%matplotlib inline
 
 from bs4 import BeautifulSoup
-
