@@ -189,9 +189,15 @@ v23 Main Focus: monitor the price of airline tickets that are the cheapest mostl
                     # send Txts to phone
 
 
---v24 Pip install ChromeDriver & Selenium <-x_x->: installed ChromeDriver & Selenium, made a folder to hold ChromeDriver to
+v24 Pip install ChromeDriver & Selenium <-x_x->: installed ChromeDriver & Selenium, made a folder to hold ChromeDriver to
                                             activate the program airline_cheap_find.py
 
                                             On jupyter file -> find_airline_ticket_cheap.ipynb the module if having
                                             difficulity aquiring selenium will fix this issue shortly.
+
+
+                                            --v24.5 Deleted .Zip File: Deleted Zip File since most people will have
+                                                                        different verisons of chrome driver
+                                              link for Chrome Driver: https://chromedriver.chromium.org/
+
 
