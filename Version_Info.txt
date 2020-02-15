@@ -208,9 +208,17 @@ v25 Basic Image ScreenShot: file airline_cheap.find.py can now save the image sc
 v26 Jupyter Fixing: will be finding a solution to the Jupyter issue/updating on a solution for version 24.
                         pip installed IPython
 
---v27 Jupyter Fixed: Solution to selenium error can be found @ https://www.youtube.com/watch?v=FtVQ4Nui4l8
+v27 Jupyter Fixed: Solution to selenium error can be found @ https://www.youtube.com/watch?v=FtVQ4Nui4l8
                         cmd -> pip install selenium -> python -> import selenium -> quit().
 
                         The file find_airline_ticket_cheap.ipynb can now process the file and save the img info onto
                         screenshot folder while printing out a success message.
 
+
+--v28 Google Api Required: Updated find_airline_ticket_cheap.ipynb with fixes.
+                               ->  Google Api is required to continue this mini project of
+                                    aquiring flight data, will work on this and chap2 in the near future
+                                    pretty disappointed but Ill finish these 2 once I aquire more resources to get an
+                                    api from google map's
+                                    link for google map platform:
+                                    https://developers.google.com/maps/documentation
