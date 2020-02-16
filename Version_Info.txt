@@ -215,10 +215,16 @@ v27 Jupyter Fixed: Solution to selenium error can be found @ https://www.youtube
                         screenshot folder while printing out a success message.
 
 
---v28 Google Api Required: Updated find_airline_ticket_cheap.ipynb with fixes.
+v28 Google Api Required: Updated find_airline_ticket_cheap.ipynb with fixes.
                                ->  Google Api is required to continue this mini project of
                                     aquiring flight data, will work on this and chap2 in the near future
                                     pretty disappointed but Ill finish these 2 once I aquire more resources to get an
                                     api from google map's
                                     link for google map platform:
                                     https://developers.google.com/maps/documentation
+
+
+--v29 ChatBot Temp: Further learning about chatbots, will be using this knowledge to make a self learning a.i,
+                    in remembrance of Tay. This is the first step of a long expedition to something much greater
+                    the future holds many opportunities  ^_*
+
