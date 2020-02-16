@@ -229,10 +229,14 @@ v29 ChatBot Temp: Further learning about chatbots, will be using this knowledge 
                     the future holds many opportunities  ^_*
 
 
---v30 ChatBot Med: bit indepth with this chat bot, granted its bit limited and it cant fully 'learn' just gets pre-defined
+v30 ChatBot Med: bit indepth with this chat bot, granted its bit limited and it cant fully 'learn' just gets pre-defined
                     data that it can respond too, its basically clevorbot not fully self learning at this point, but im getting
                     their on future versions of chatbots. This respo @ chatbot will just be the basics of the basic
                     for chatbot info.
 
                     -pip install keras
                     -updated chatbot01.ipynb
+
+
+--v31 ChatBot Med Halt: couple of errors, will halt production and be starting to work on Data Analysis. then on Pytorch
+                     which I'm highly excited to try out!!
