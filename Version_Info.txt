@@ -214,7 +214,7 @@ v27 Jupyter Fixed: Solution to selenium error can be found @ https://www.youtube
                         The file find_airline_ticket_cheap.ipynb can now process the file and save the img info onto
                         screenshot folder while printing out a success message.
 
-
+---------------------------    ----------------------------   ------------------------- ------------------------------
 v28 Google Api Required: Updated find_airline_ticket_cheap.ipynb with fixes.
                                ->  Google Api is required to continue this mini project of
                                     aquiring flight data, will work on this and chap2 in the near future
@@ -238,5 +238,8 @@ v30 ChatBot Med: bit indepth with this chat bot, granted its bit limited and it 
                     -updated chatbot01.ipynb
 
 
---v31 ChatBot Med Halt: couple of errors, will halt production and be starting to work on Data Analysis. then on Pytorch
+v31 ChatBot Med Halt: couple of errors, will halt production and be starting to work on Data Analysis. then on Pytorch
                      which I'm highly excited to try out!!
+ ---------------------------    ----------------------------   ------------------------- ------------------------------
+--v32 PyTorch Start: Pytorch / nueral networks & training -> made new folder called PyTorch, & pytorch_source to hold
+                        the pysource
