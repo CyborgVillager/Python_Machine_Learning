@@ -244,6 +244,8 @@ v31 ChatBot Med Halt: couple of errors, will halt production and be starting to 
 v32 PyTorch Start: Pytorch / nueral networks & training -> made new folder called PyTorch, & pytorch_source to hold
                         the pysource
                         
- --v33 Pytorch / tensorflow: https://pytorch.org/get-started/locally/
+ v33 Pytorch / tensorflow: https://pytorch.org/get-started/locally/
 				made a regression_tensorflow folder will be further increasing skills in this section then will work on
 					learning about Pytorch
+
+--wor:v34 Image Reco: image detection in prog ^_^
