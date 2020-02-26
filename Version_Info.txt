@@ -248,4 +248,14 @@ v32 PyTorch Start: Pytorch / nueral networks & training -> made new folder calle
 				made a regression_tensorflow folder will be further increasing skills in this section then will work on
 					learning about Pytorch
 
---wor:v34 Image Reco: image detection in prog ^_^
+v34 Image Reco: image detection in prog ^_^
+
+--v35 Info/Requirements Added: made a req.txt file using pip freeze >  requirements.txt , good training on making req.txt
+                                files in the future as well, as organizing what the program has at the moment.
+
+                                Installed tensorflow.
+                                if your having diffic pip installing tensorflow check this stackflow link for the solution
+                                https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip/55787868
+
+                               
+

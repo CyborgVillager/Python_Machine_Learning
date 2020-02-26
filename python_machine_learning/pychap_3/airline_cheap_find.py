@@ -31,7 +31,7 @@ except:
 
 try:
     browser.save_screenshot(image_location + img_name + file_format)
-    print('Success, image is now saved @ folder screenshot. Saved as ' + img_name)
+    print('Success, images is now saved @ folder screenshot. Saved as ' + img_name)
 except OSError:
                 print('Error cant save file ' + img_name + ' at this time' + 'please check the folder' + '\n' +
                       'screenshot')
