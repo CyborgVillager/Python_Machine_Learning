@@ -60,7 +60,6 @@ pytz==2019.3
 pywin32==227
 pywinpty==0.5.7
 PyYAML==5.3
-pyzmq==18.1.1
 qtconsole==4.6.0
 requests==2.22.0
 scikit-learn==0.22.1
@@ -70,9 +69,6 @@ selenium==3.141.0
 Send2Trash==1.5.0
 six==1.14.0
 sklearn==0.0
-soupsieve==1.9.5
-tensorboard==1.12.2
-tensorflow==1.12.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
@@ -83,4 +79,3 @@ wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
 widgetsnbextension==3.5.1
-zipp==2.2.0

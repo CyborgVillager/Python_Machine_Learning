@@ -250,12 +250,14 @@ v32 PyTorch Start: Pytorch / nueral networks & training -> made new folder calle
 
 v34 Image Reco: image detection in prog ^_^
 
---v35 Info/Requirements Added: made a req.txt file using pip freeze >  requirements.txt , good training on making req.txt
+v35 Info/Requirements Added: made a req.txt file using pip freeze >  requirements.txt , good training on making req.txt
                                 files in the future as well, as organizing what the program has at the moment.
 
                                 Installed tensorflow.
                                 if your having diffic pip installing tensorflow check this stackflow link for the solution
                                 https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip/55787868
 
-                               
+--v36 Update Version: deleted tensorflow info, due to file being too large to upload onto github, will be making a new project
+                        and connect it to this one for image_recog
+
 
