@@ -257,7 +257,15 @@ v35 Info/Requirements Added: made a req.txt file using pip freeze >  requirement
                                 if your having diffic pip installing tensorflow check this stackflow link for the solution
                                 https://stackoverflow.com/questions/38896424/tensorflow-not-found-using-pip/55787868
 
---v36 Update Version: deleted tensorflow info, due to file being too large to upload onto github, will be making a new project
+v36 Update Version: deleted tensorflow info, due to file being too large to upload onto github, will be making a new project
                         and connect it to this one for image_recog
+
+--v37 Reset to v36: After testing out on combing the 2 projects onto the same folder, multiple issues arised. However I did
+                    learn about git-lfs
+                    https://github.com/git-lfs/git-lfs/wiki/Tutorial & https://www.youtube.com/watch?v=xPFLAAhuGy0
+                    Most of my issues came from the file being too large for 100MB above the limit. Ill be making a new
+                    respo for the image recogniztion, and will work on this respo for further A.I development
+
+
 
 
